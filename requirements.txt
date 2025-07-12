@@ -1,0 +1,5 @@
+transformers==4.41.2
+torch>=2.0.0
+accelerate>=0.24.0
+sentencepiece  # Для поддержки токенизаторов с SentencePiece (в TinyLlama может потребоваться)
+regex
